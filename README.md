@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vicks15
-- 👀 I’m interested in coding, doggies, naps, and my fiance
-- 🌱 I’m currently learning Python, SQL, and Splunk
+- 👀 I’m interested in coding, doggies, naps, and my wife
+- 🌱 I’m currently learning Python, CQL, and Splunk
 - 💞️ I’m looking to collaborate on beginners coding support
 - 📫 How to reach me? You can shoot me a messege here or to my email: vicmary1@hotmail.com
 
